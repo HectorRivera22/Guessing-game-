@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    border: 2px black solid;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.button{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.imput-container{
+    display:flex; 
+    justify-content: center;
+}
+
+.text-container{
+    display:flex; 
+    justify-content: center;
+    margin-bottom: 60px;
+}
